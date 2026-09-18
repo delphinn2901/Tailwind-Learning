@@ -42,6 +42,24 @@ function Services() {
             color="bg-green-600"
           />
 
+          <ServiceCard
+            title="YouTube Management"
+            description="We manage and grow your YouTube channel."
+            color="bg-red-600"
+          />
+
+          <ServiceCard
+            title="SEO Optimization"
+            description="We optimize your website for better search engine visibility."
+            color="bg-yellow-600"
+          />
+
+          <ServiceCard
+            title="free Consultation"
+            description="We provide free consultation to help you get started."
+            color="bg-gray-600"
+          />
+
         </div>
 
       </div>
