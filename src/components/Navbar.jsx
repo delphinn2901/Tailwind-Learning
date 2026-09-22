@@ -25,33 +25,32 @@ function Navbar() {
           <div className="hidden md:flex items-center gap-8">
 
             <a
-              href="#"
-              className="text-gray-300 hover:text-white transition"
-            >
-              Home
-            </a>
+  href="#"
+  className="text-gray-300 hover:text-white transition"
+>
+  Home
+</a>
 
-            <a
-              href="#"
-              className="text-gray-300 hover:text-white transition"
-            >
-              About
-            </a>
+<a
+  href="#about"
+  className="text-gray-300 hover:text-white transition"
+>
+  About
+</a>
 
-            <a
-              href="#"
-              className="text-gray-300 hover:text-white transition"
-            >
-              Services
-            </a>
+<a
+  href="#services"
+  className="text-gray-300 hover:text-white transition"
+>
+  Services
+</a>
 
-            <a
-              href="#"
-              className="text-gray-300 hover:text-white transition"
-            >
-              Contact
-            </a>
-
+<a
+  href="#contact"
+  className="text-gray-300 hover:text-white transition"
+>
+  Contact
+</a>
             <button className="bg-blue-600 hover:bg-blue-700 transition px-5 py-2 rounded-lg font-semibold">
               Get Started
             </button>
@@ -78,33 +77,32 @@ function Navbar() {
             <div className="flex flex-col gap-4">
 
               <a
-                href="#"
-                className="text-gray-300 hover:text-white transition"
-              >
-                Home
-              </a>
+  href="#"
+  className="text-gray-300 hover:text-white transition"
+>
+  Home
+</a>
 
-              <a
-                href="#"
-                className="text-gray-300 hover:text-white transition"
-              >
-                About
-              </a>
+<a
+  href="#about"
+  className="text-gray-300 hover:text-white transition"
+>
+  About
+</a>
 
-              <a
-                href="#"
-                className="text-gray-300 hover:text-white transition"
-              >
-                Services
-              </a>
+<a
+  href="#services"
+  className="text-gray-300 hover:text-white transition"
+>
+  Services
+</a>
 
-              <a
-                href="#"
-                className="text-gray-300 hover:text-white transition"
-              >
-                Contact
-              </a>
-
+<a
+  href="#contact"
+  className="text-gray-300 hover:text-white transition"
+>
+  Contact
+</a>
               <button className="bg-blue-600 hover:bg-blue-700 transition px-5 py-2 rounded-lg font-semibold w-full">
                 Get Started
               </button>
