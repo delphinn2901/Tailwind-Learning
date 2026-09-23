@@ -3,6 +3,7 @@ import Services from "./components/Services"
 import About from "./components/About"
 import CTA from "./components/CTA"
 import Footer from "./components/Footer"
+import Projects from "./components/Projects"
 
 function App() {
   return (
@@ -16,7 +17,9 @@ function App() {
       {/* Services */}
       <Services />
 
-      {/* About */}
+ <Projects />
+
+      {/* About */}n
       <About />
 
       {/* CTA */}
