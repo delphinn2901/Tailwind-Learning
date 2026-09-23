@@ -4,6 +4,7 @@ import About from "./components/About"
 import CTA from "./components/CTA"
 import Footer from "./components/Footer"
 import Projects from "./components/Projects"
+import Contact from "./components/Contact"
 
 function App() {
   return (
@@ -22,8 +23,11 @@ function App() {
       {/* About */}n
       <About />
 
-      {/* CTA */}
-      <CTA />
+      {/* Contact */}
+<Contact />
+
+{/* CTA */}
+<CTA />
 
       {/* Footer */}
       <Footer />
